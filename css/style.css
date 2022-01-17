@@ -1,0 +1,10 @@
+.whatsapp-icon{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+.card-center{
+    margin: auto;
+    float: none;
+    margin-bottom: 10px;
+}
